@@ -38,9 +38,9 @@ Your Task: Refer to the Shared Data Models section in aidlc-docs/inception/depen
 
 Your Role: You are an experienced software engineer. You are tasked with designing the Domain Model to implement all the user stories as referred in the Task section. This model shall contain all the components, the attributes, the behaviours and how the components interact to implement business logic in the user stories. Do not generate any architectural components. Do not generate any codes. Strictly refer and copy the full definition of relevant shared components needed as present in the aidlc-docs/inception/units/shared_model.md. Write the component model into a separate md file in the aidlc-docs/construction folder.
 
-Plan for the work ahead and write your steps in the aidlc-docs/construction/domain_model_plan.md file with checkboxes for each step in the plan. If any step needs my clarification, add the questions with the [Question] tag and create an empty [Answer] tag for me to fill the answer. Do not make any assumptions or decisions on your own. Upon creating the plan, ask for my review and approval. After my approval, you can go ahead to execute the same plan one step at a time. Once you finish each step, mark the checkboxes as completed in the plan.
+Plan for the work ahead and write your steps in the aidlc-docs/construction/user_management_domain_model_plan.md file with checkboxes for each step in the plan. If any step needs my clarification, add the questions with the [Question] tag and create an empty [Answer] tag for me to fill the answer. Do not make any assumptions or decisions on your own. Upon creating the plan, ask for my review and approval. After my approval, you can go ahead to execute the same plan one step at a time. Once you finish each step, mark the checkboxes as completed in the plan.
 
-Your Task: Refer to the user stories in the aidlc-docs/inception/units/matching_engine_service.md
+Your Task: Refer to the user stories in the aidlc-docs/inception/units/user_management_authentication_service.md
 
 ### Dmain Model to Code
 
